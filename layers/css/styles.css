@@ -1488,7 +1488,7 @@ ol, ul {
   margin-bottom: 1.5rem;
   font-size: 2.5rem;
   line-height: 2.5rem;
-  color: #fefcf7;
+  color: #000000;
 }
 
 @media (min-width: 48rem) {
@@ -1516,7 +1516,7 @@ ol, ul {
 .plan-hero__tagline {
   max-width: 26.25rem;
   margin: auto;
-  color: #fefcf7;
+  color: #000000;
   opacity: 0.8;
 }
 
